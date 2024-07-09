@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PeterMace/movie-finder-ui/static/css/main.f855e6bc.css",
-    "main.js": "/PeterMace/movie-finder-ui/static/js/main.8ef1297d.js",
-    "static/js/453.929a1ef6.chunk.js": "/PeterMace/movie-finder-ui/static/js/453.929a1ef6.chunk.js",
-    "static/media/logo.svg": "/PeterMace/movie-finder-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/PeterMace/movie-finder-ui/index.html",
-    "main.f855e6bc.css.map": "/PeterMace/movie-finder-ui/static/css/main.f855e6bc.css.map",
-    "main.8ef1297d.js.map": "/PeterMace/movie-finder-ui/static/js/main.8ef1297d.js.map",
-    "453.929a1ef6.chunk.js.map": "/PeterMace/movie-finder-ui/static/js/453.929a1ef6.chunk.js.map"
+    "main.css": "/movie-finder-ui/static/css/main.f855e6bc.css",
+    "main.js": "/movie-finder-ui/static/js/main.632ff741.js",
+    "static/js/453.929a1ef6.chunk.js": "/movie-finder-ui/static/js/453.929a1ef6.chunk.js",
+    "static/media/logo.svg": "/movie-finder-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movie-finder-ui/index.html",
+    "main.f855e6bc.css.map": "/movie-finder-ui/static/css/main.f855e6bc.css.map",
+    "main.632ff741.js.map": "/movie-finder-ui/static/js/main.632ff741.js.map",
+    "453.929a1ef6.chunk.js.map": "/movie-finder-ui/static/js/453.929a1ef6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8ef1297d.js"
+    "static/js/main.632ff741.js"
   ]
 }
